@@ -1,4 +1,6 @@
 variable "region" {}
 variable "compartment_ocid" {}
-variable "vcn01_cidr_block" {}
-variable "vcn01_display_name" {}
+variable "vcn200_cidr_block" {}
+variable "vcn200_display_name" {}
+variable "vcn300_cidr_block" {}
+variable "vcn300_display_name" {}
